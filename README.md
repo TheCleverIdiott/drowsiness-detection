@@ -3,7 +3,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 
-# AI-Win-Predictor
+# Drowsyness-Detection
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,7 +15,7 @@
 
 
 <h1 align="center">Hi 👋, We are a group of students working on an AI Score prediction system.</h1>
-<h3 align="center">Our group consists of 4 members. Aritra Ghosh, Anoushka Sen, Aveepsa Sarkar, Subhojit Ghosh</h3>
+<h3 align="center">Our group consists of 4 members. Aritra Ghosh, Anoushka Sen and Sarnabh Haldar</h3>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
