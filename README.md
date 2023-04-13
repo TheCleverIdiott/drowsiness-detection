@@ -14,8 +14,8 @@
  </div>
 
 
-<h1 align="center">Hi 👋, We are a group of students working on an AI Score prediction system.</h1>
-<h3 align="center">Our group consists of 3 members. Aritra Ghosh, Anoushka Sen and Sarnabh Haldar</h3>
+<h1 align="center">Hi 👋, We are a group of students working on an Drowsiness Detector model.</h1>
+<h3 align="center">Our group consists of 4 members. Aritra Ghosh, Anoushka Sen and Sarnabh Haldar</h3>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
