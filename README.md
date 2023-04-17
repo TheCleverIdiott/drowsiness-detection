@@ -8,8 +8,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/TheCleverIdiott/Win_Analyser">
-    <img src="" alt="Logo">
+  <a href="https://github.com/TheCleverIdiott/drowsiness-detection">
+    <img src="preview.jpg" alt="Logo">
   </a>
  </div>
 
