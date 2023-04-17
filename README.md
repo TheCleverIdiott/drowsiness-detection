@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
 
 # Drowsyness-Detection
 
@@ -18,34 +17,21 @@ ________________________________________________________________________________
 
 <h3 align="left">Made With</h3>
 <p align="left"> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
 <br>
-<br>
-  
- ### Prerequisites
-  * Python - [**Install Python**](https://python.org)
-  * Text Editor
-  * OpenCV (`$ pip install opencv-python`)
-    
+
+## How to run the program:
+* Make sure to have Python version 10 or above and a Text Editor.
+* Install the dependencied by running `pip install -r requirements.txt`
+* Make sure `haarcascade_frontalface_default.xml`, `haarcascade_eye_tree_eyeglasses.xml` and `buzz.mp3` are in the same directory as `SleepDetection.py`.   
+* Run the `SleepDetection.py` file after completing the previous steps.
     
 <br>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-  
-  
-  ## Authors
+   
+## Authors
 
 - [Aritra Ghosh](https://github.com/TheCleverIdiott)
 - [Anoushka Sen](https://github.com/senanoushka)
