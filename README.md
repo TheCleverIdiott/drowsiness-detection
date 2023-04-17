@@ -13,39 +13,7 @@
   </a>
  </div>
 
-
-<h1 align="center">👋</h1>
-
 _______________________________________________________________________________________________________________________________________________________________________
-
-<p align="center">
-    <br />
-    <br />
-    <a href=""> Click to View Presentation</a>
-  </p>
-
-<br>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#Made With">Made With</a></li>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installing-dependencies">Installing Dependencies</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
-<br>
-
 
 
 <h3 align="left">Made With</h3>
