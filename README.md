@@ -5,6 +5,8 @@
 # Drowsyness-Detection
 
 <!-- PROJECT LOGO -->
+<!-- hello u know what time it is? -->
+<!-- it's disco time -->
 <br />
 <div align="center">
   <a href="https://github.com/TheCleverIdiott/drowsiness-detection">
