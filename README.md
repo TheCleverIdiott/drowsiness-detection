@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TheCleverIdiott/drowsiness-detection">
-    <img src="preview.jpg" alt="Logo">
+    <img src="preview.jpg" alt="Logo" height="300" width="600">
   </a>
  </div>
 
