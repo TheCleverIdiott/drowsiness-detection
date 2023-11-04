@@ -37,9 +37,10 @@ ________________________________________________________________________________
    
 ## Authors
 
-- [Aritra Ghosh](https://github.com/TheCleverIdiott)
-- [Anoushka Sen](https://github.com/senanoushka)
-- [Sarnabh Haldar](https://github.com/CODERdotEXE)
+[![Contributors][contributors-image]][contributors-link]
+
+[contributors-image]: https://contrib.rocks/image?repo=thecleveridiott/drowsiness-detection
+[contributors-link]: https://github.com/thecleveridiott/drowsiness-detection/graphs/contributors
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
