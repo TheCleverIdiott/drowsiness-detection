@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
 
 # Drowsyness-Detection
 
@@ -34,13 +33,7 @@ ________________________________________________________________________________
 * Run the `SleepDetection.py` file after completing the previous steps.
     
 <br>
-   
-## Authors
-
-[![Contributors][contributors-image]][contributors-link]
-
-[contributors-image]: https://contrib.rocks/image?repo=thecleveridiott/drowsiness-detection
-[contributors-link]: https://github.com/thecleveridiott/drowsiness-detection/graphs/contributors
+  
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
